@@ -30,4 +30,4 @@ Here is the list of projects stored in this repository :
 
 
 ## Author
-* **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
+* **Sabrina** - [Github](https://github.com/DataSab)
